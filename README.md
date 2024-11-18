@@ -1,1 +1,1 @@
-# Udemig_Education_scss
+# Udemig-Education-SCSS
