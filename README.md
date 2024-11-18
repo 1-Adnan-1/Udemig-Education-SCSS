@@ -1,5 +1,4 @@
 # Udemig Education SCSS
-# Udemig_Education_scss
 I developed the project using HTML, CSS and SCSS. Style management is made more flexible and modular by using features such as variables and mixins provided by SCSS.
 
 # Features:
